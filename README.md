@@ -18,7 +18,6 @@
 ### 🌟 About Me
 
 - 💻 I’m a passionate Web Developer turning ideas into reality with code.
-- 🎧 Founder of [Medley Beats](https://medleybeats.com/) – Empowering Independent Artists.
 - ⚙️ Specializing in **PHP, MySQL, WordPress, Tailwind, Bootstrap, JavaScript** and more.
 - 🧩 Currently learning: `Next.js`, `Framer Motion`, `TypeScript`.
 
